@@ -313,3 +313,8 @@ fire: 48->189
 buttons: 123->190, 124->191, 125->192, 126->193
 levers: 104->194, 105->195, 106->196, 107->197, 108->198, 109->199
 ascending tracks: 88->200, 89->201, 90->202, 91->203
+
+
+another example is Mapcrafter
+Mapcrafter is a high performance Minecraft map renderer written in C++ which renders your Minecraft worlds to fancy maps viewable in any webbrowser.
+github link: https://github.com/mapcrafter/mapcrafter 
